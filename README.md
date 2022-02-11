@@ -2,8 +2,9 @@
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Python on a virtual assistant project.
 - 💞️ I’m looking to collaborate on virtual assistant project.
-- 📫 How to reach me.... 1) You can mail me on my e-mail id 'yashhcoudhary5302@gmail.com'
-                          2) You can come on my youtube channel 'CodeWithYash' "https://www.youtube.com/channel/UCJdPwpxfmsj-2KGexCofoMA".
+- 📫 How to reach me.... 
+- 1) You can mail me on my e-mail id 'yashhcoudhary5302@gmail.com'
+- 2) You can come on my youtube channel 'CodeWithYash' "https://www.youtube.com/channel/UCJdPwpxfmsj-2KGexCofoMA".
 - 💞️Thank You💞️
 
 <!---
